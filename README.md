@@ -9,3 +9,6 @@ Collection of dotfiles
 ### Task 2
   Can be found under [homefiles](./homefiles)
   This task is aobut bash aliases
+### Task 3
+  Can be found under [sys-installs](./sys-installs)
+  This task is about package install
