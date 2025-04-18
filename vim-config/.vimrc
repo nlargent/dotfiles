@@ -9,14 +9,12 @@ call vundle#begin()
 Plugin 'VundleVim/Vundle.vim'
 
 " Improvments
-Plugin 'Valloric/YouCompleteMe'
 Plugin 'tpope/vim-sleuth'
 Plugin 'tpope/vim-surround'
 
 
 " Color Schemes
 Plugin 'flazz/vim-colorschemes'
-Plugin 'notpratheek/vim-luna'
 
 
 

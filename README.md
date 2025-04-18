@@ -1,6 +1,5 @@
 # dotfiles
-Collection of dotfiles
----
+- Collection of dotfiles that currently include how to customize vim, some bash aliases, and scripting packages installations. 
 
 ### Task 1
 - Can be found under [vim-config](./vim-config)
@@ -11,4 +10,4 @@ Collection of dotfiles
   This task is aobut bash aliases
 ### Task 3
   Can be found under [sys-installs](./sys-installs)
-  This task is about package install
+  This task is about scripting a package install
